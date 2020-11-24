@@ -28,7 +28,7 @@ public class Exercise001 {
             if (users.get(i).getType().equals("Linux")) {
                 count++;
             }
-        };
+        }
         return count;
     }
 }
